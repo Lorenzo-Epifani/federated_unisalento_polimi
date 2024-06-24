@@ -20,7 +20,7 @@
 
 
 
-# Other article
+# Other articles
 [Colombo et al](https://dl.acm.org/doi/pdf/10.1145/3639856.3639867)
 
 
